@@ -1,3 +1,3 @@
-const nomePessoa = prompt("Qual seu nome quester?")
+const nomeQuester = prompt("Qual seu nome quester?")
 
-alert("Seja bem vindo(a), " + nomePessoa)
+alert("Seja bem vindo(a), " + nomeQuester)
