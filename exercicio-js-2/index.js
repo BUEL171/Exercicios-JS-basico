@@ -1,7 +1,7 @@
 const boletoPago = false
 
-if(boletoPago){
+if(boletoPago === true){
     alert("O boleto esta pago!")
-}else if(boletoPago === false){
+}else {
     alert("O boleto nao esta pago!")
 }

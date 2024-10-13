@@ -2,7 +2,6 @@ const vaiSeHospedar = confirm("Seja bem vindo(a), aventureiro(a)! Gostaria de pa
 
 if (vaiSeHospedar) {
     alert("Ótimo! Nós temos as melhores camas de toda a região!")
-}else if(vaiSeHospedar === false){
+} else {
     alert("Que pena! Você parecia ser uma pessoa mais legal")
 }
-
