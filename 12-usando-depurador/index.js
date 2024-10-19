@@ -13,5 +13,5 @@ function imprimirFatorial(numero) {
     console.log(`O fatorial de ${numero} e ${fatorial}`);
 }
 
-const numero = 5;
+const numero = 5; 
 imprimirFatorial(numero)
