@@ -18,7 +18,7 @@ function incentivarQuester(nomeQuester = 'Quester'){
     alert('muito bem ' + nomeQuester + ', Voce chegou ao JS, continue assim')
 }
 
-incentivarQuester()
+incentivarQuester() 
 
 // function soma(numero1, numero2){
 //     return numero1 + numero2
