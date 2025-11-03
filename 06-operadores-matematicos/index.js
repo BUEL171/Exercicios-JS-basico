@@ -1,4 +1,4 @@
-let primeiroValor = 10
+let primeiroValor = 10 
 let segundoValor = 3
 
 console.log(primeiroValor + segundoValor)
